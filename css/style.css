@@ -1,0 +1,22 @@
+.portfolio-header {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 100vw;
+  height: 80px;
+  background-color: #3f7fe0BF;
+  box-shadow: 0px 1px 0px 3px #bfbfbf80;
+}
+
+.portfolio-body {
+  margin-top: 80px;
+  display: flex;
+  flex-direction: column;
+
+
+}
+.portfolio-summary {
+  width: 100vw;
+  height: 400px;
+  background-color: red;
+}
