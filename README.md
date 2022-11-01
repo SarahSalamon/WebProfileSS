@@ -1,1 +1,2 @@
 # WebProfileSS
+My plans for my website are to make it my professional about me website that I can include in emails for when I apply to jobs. I want to include my resume, writing samples, and my art. I want to include a little about me, my background, and my interests when I am not working. I plan to make this website all one page and when you click on different tabs, it scrolls you down to that part of the page. I also plan to match the colors to those that I have in my profile picture.
